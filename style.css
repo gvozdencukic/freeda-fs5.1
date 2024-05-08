@@ -30,11 +30,10 @@ a {
   transition: 0.3s linear;
 }
 
-container {
+.container {
   max-width: 1140px;
   width: 100%;
   margin: auto;
-  border: 1px solid red;
 }
 
 .btn {
